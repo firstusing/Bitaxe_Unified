@@ -1,0 +1,11 @@
+{
+  "domain": "bitaxe_unified",
+  "name": "Bitaxe Unified",
+  "version": "0.2.2",
+  "documentation": "https://github.com/firstusing/Bitaxe_Unified",
+  "issue_tracker": "https://github.com/firstusing/Bitaxe_Unified/issues",
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "requirements": [],
+  "codeowners": ["@firstusing"]
+}
